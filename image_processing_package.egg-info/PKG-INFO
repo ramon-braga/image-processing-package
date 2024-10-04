@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: image-processing-package
+Version: 0.0.1
+Summary: my short description
+Home-page: https://github.com/ramon-braga/image-processing-package
+Author: Ramon
+Author-email: my_email
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # package_name
 
 Description. 
